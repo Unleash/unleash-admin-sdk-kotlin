@@ -1,12 +1,28 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:io.getunleash.admin.data////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/index.html
+$dokka.location:io.getunleash.admin.data/UnleashProject///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/index.html
+$dokka.location:io.getunleash.admin.data/UnleashProject/UnleashProject/#kotlin.String#kotlin.String?#kotlin.String?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/-unleash-project.html
+$dokka.location:io.getunleash.admin.data/UnleashProject/description/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/description.html
+$dokka.location:io.getunleash.admin.data/UnleashProject/id/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/id.html
+$dokka.location:io.getunleash.admin.data/UnleashProject/name/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/name.html
+$dokka.location:io.getunleash.admin.data/UnleashProjectResponse///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/index.html
+$dokka.location:io.getunleash.admin.data/UnleashProjectResponse/UnleashProjectResponse/#kotlin.String#kotlin.collections.List[io.getunleash.admin.data.UnleashProject]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/-unleash-project-response.html
+$dokka.location:io.getunleash.admin.data/UnleashProjectResponse/projects/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/projects.html
+$dokka.location:io.getunleash.admin.data/UnleashProjectResponse/version/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/version.html
+$dokka.location:io.getunleash.admin.exceptions////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/index.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/index.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/UnleashIllegalContentTypeException/#kotlin.String?#kotlin.Throwable?#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/-unleash-illegal-content-type-exception.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/cause/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/cause.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/contentTypeHeader/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/content-type-header.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/message/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/message.html
 $dokka.location:io.getunleash.admin////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/index.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/index.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/UnleashAdminClient/#kotlin.String#kotlin.String#okhttp3.OkHttpClient?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/-unleash-admin-client.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/UnleashAdminClient/#okhttp3.HttpUrl#kotlin.String#okhttp3.OkHttpClient?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/-unleash-admin-client.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/apiKey/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/api-key.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/client/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/client.html
-$dokka.location:io.getunleash.admin/UnleashAdminClient/defaultClient/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/default-client.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/getProjects/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/get-projects.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/gson/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/gson.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/serverUrl/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/server-url.html
 $dokka.location:io.getunleash.admin/UnleashUrls///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/index.html
@@ -37,4 +53,6 @@ $dokka.location:io.getunleash.admin/UnleashUrls/strategiesUrlBuilder/#okhttp3.Ht
 $dokka.location:io.getunleash.admin/UnleashUrls/tagTypesUrl/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/tag-types-url.html
 $dokka.location:io.getunleash.admin/UnleashUrls/tagTypesUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/tag-types-url-builder.html
 io.getunleash.admin
+io.getunleash.admin.data
+io.getunleash.admin.exceptions
 
