@@ -28,11 +28,15 @@ Fork with [GitHub Codespaces](https://github.com/features/codespaces):
 
 ### Make your update:
 
-Make your changes to the file(s) you'd like to update. You'll need **Node.js v14** and PostgreSQL 10 to run Unleash locally. [See more details](https://github.com/Unleash/unleash-admin-sdk-kotlin/tree/master/website/docs/contributing/developer-guide.md)
+Make your changes to the file(s) you'd like to update. You'll need a working JVM installation on your machine to run gradle. We're running with Java 11 as our baseline.
+
+* Make sure your addition is tested
+* Run `./gradlew spotlessApply` before you commit, just so our ktlint formatter formats the code according to the expectations of this repo
+* Please make sure you can successfully run `./gradlew build` before opening a PR
 
 ### Open a pull request
 
-When you're done making changes and you'd like to propose them for review by opening a pull request.
+* Once you're done making changes and would like to propose them for review open a pull request.
 
 ### Submit your PR & get it reviewed
 
