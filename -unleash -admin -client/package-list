@@ -1,0 +1,40 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.getunleash.admin////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/index.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/index.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/UnleashAdminClient/#kotlin.String#kotlin.String#okhttp3.OkHttpClient?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/-unleash-admin-client.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/UnleashAdminClient/#okhttp3.HttpUrl#kotlin.String#okhttp3.OkHttpClient?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/-unleash-admin-client.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/apiKey/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/api-key.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/client/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/client.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/defaultClient/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/default-client.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/gson/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/gson.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/serverUrl/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/server-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/index.html
+$dokka.location:io.getunleash.admin/UnleashUrls/adminUrl/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/admin-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/adminUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/admin-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureEnvironmentUrl/#okhttp3.HttpUrl#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-environment-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureEnvironmentUrlBuilder/#okhttp3.HttpUrl#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-environment-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureEnvironmentsUrl/#okhttp3.HttpUrl#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-environments-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureEnvironmentsUrlBuilder/#okhttp3.HttpUrl#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-environments-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureStrategiesUrl/#okhttp3.HttpUrl#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-strategies-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureStrategiesUrlBuilder/#okhttp3.HttpUrl#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-strategies-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureStrategyUrl/#okhttp3.HttpUrl#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-strategy-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureStrategyUrlBuilder/#okhttp3.HttpUrl#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-strategy-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureTagsUrl/#okhttp3.HttpUrl#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-tags-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureTagsUrlBuilder/#okhttp3.HttpUrl#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-tags-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureTypesUrl/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-types-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureTypesUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-types-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureUrl/#okhttp3.HttpUrl#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featureUrlBuilder/#okhttp3.HttpUrl#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/feature-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featuresUrl/#okhttp3.HttpUrl#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/features-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/featuresUrlBuilder/#okhttp3.HttpUrl#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/features-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/projectUrl/#okhttp3.HttpUrl#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/project-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/projectUrlBuilder/#okhttp3.HttpUrl#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/project-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/projectsUrl/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/projects-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/projectsUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/projects-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/strategiesUrl/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/strategies-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/strategiesUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/strategies-url-builder.html
+$dokka.location:io.getunleash.admin/UnleashUrls/tagTypesUrl/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/tag-types-url.html
+$dokka.location:io.getunleash.admin/UnleashUrls/tagTypesUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/tag-types-url-builder.html
+io.getunleash.admin
+
