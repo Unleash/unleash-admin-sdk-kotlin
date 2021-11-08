@@ -40,6 +40,7 @@ dependencies {
     implementation("org.slf4j:slf4j-api:$slf4jVersion")
     implementation("com.google.code.gson:gson:$gsonVersion")
     testImplementation("org.junit.jupiter:junit-jupiter-api:$junitVersion")
+    testImplementation("org.junit.jupiter:junit-jupiter-engine:$junitVersion")
     testImplementation("org.assertj:assertj-core:$assertJVersion")
     testImplementation("com.squareup.okhttp3:mockwebserver:$okHttpVersion")
     testImplementation("org.slf4j:slf4j-simple:$slf4jVersion")
