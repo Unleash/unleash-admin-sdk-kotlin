@@ -29,6 +29,5 @@ class UnleashUrlsTest {
         Assertions.assertThat(featuresUrl.pathSegments).hasSize(6)
         Assertions.assertThat(featuresUrl.pathSegments.last()).isEqualTo("features")
         Assertions.assertThat(featuresUrl.toString()).isEqualTo("https://api.unleash-hosted.com/demo/api/admin/projects/default/features")
-
     }
 }
