@@ -1,6 +1,47 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:io.getunleash.admin.data.serializers////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data.serializers/index.html
+$dokka.location:io.getunleash.admin.data.serializers/GsonZonedDateTimeSerializer///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data.serializers/-gson-zoned-date-time-serializer/index.html
+$dokka.location:io.getunleash.admin.data.serializers/GsonZonedDateTimeSerializer/FORMATTER/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data.serializers/-gson-zoned-date-time-serializer/-f-o-r-m-a-t-t-e-r.html
+$dokka.location:io.getunleash.admin.data.serializers/GsonZonedDateTimeSerializer/GsonZonedDateTimeSerializer/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data.serializers/-gson-zoned-date-time-serializer/-gson-zoned-date-time-serializer.html
+$dokka.location:io.getunleash.admin.data.serializers/GsonZonedDateTimeSerializer/deserialize/#com.google.gson.JsonElement?#java.lang.reflect.Type?#com.google.gson.JsonDeserializationContext?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data.serializers/-gson-zoned-date-time-serializer/deserialize.html
+$dokka.location:io.getunleash.admin.data.serializers/GsonZonedDateTimeSerializer/serialize/#java.time.ZonedDateTime?#java.lang.reflect.Type?#com.google.gson.JsonSerializationContext?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data.serializers/-gson-zoned-date-time-serializer/serialize.html
 $dokka.location:io.getunleash.admin.data////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/index.html
+$dokka.location:io.getunleash.admin.data/CreateFeatureToggleRequest///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-create-feature-toggle-request/index.html
+$dokka.location:io.getunleash.admin.data/CreateFeatureToggleRequest/CreateFeatureToggleRequest/#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-create-feature-toggle-request/-create-feature-toggle-request.html
+$dokka.location:io.getunleash.admin.data/CreateFeatureToggleRequest/description/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-create-feature-toggle-request/description.html
+$dokka.location:io.getunleash.admin.data/CreateFeatureToggleRequest/name/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-create-feature-toggle-request/name.html
+$dokka.location:io.getunleash.admin.data/UnleashConstraint///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-constraint/index.html
+$dokka.location:io.getunleash.admin.data/UnleashConstraint/UnleashConstraint/#kotlin.collections.List[kotlin.String]#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-constraint/-unleash-constraint.html
+$dokka.location:io.getunleash.admin.data/UnleashConstraint/contextName/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-constraint/context-name.html
+$dokka.location:io.getunleash.admin.data/UnleashConstraint/operator/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-constraint/operator.html
+$dokka.location:io.getunleash.admin.data/UnleashConstraint/values/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-constraint/values.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/index.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment/UnleashEnvironment/#kotlin.String#kotlin.Boolean#kotlin.String#kotlin.Int#kotlin.collections.List[io.getunleash.admin.data.UnleashStrategy]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/-unleash-environment.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment/enabled/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/enabled.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment/name/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/name.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment/sortOrder/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/sort-order.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment/strategies/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/strategies.html
+$dokka.location:io.getunleash.admin.data/UnleashEnvironment/type/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-environment/type.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/index.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/UnleashFeatureToggle/#kotlin.collections.List[io.getunleash.admin.data.UnleashEnvironment]#kotlin.String#kotlin.String#kotlin.String#kotlin.Boolean#io.getunleash.admin.data.UnleashVariant#kotlin.String#kotlin.Boolean#java.time.ZonedDateTime?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/-unleash-feature-toggle.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/archived/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/archived.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/createdAt/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/created-at.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/description/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/description.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/environments/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/environments.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/name/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/name.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/project/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/project.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/stale/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/stale.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/type/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/type.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureToggle/variants/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggle/variants.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureTogglesResponse///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggles-response/index.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureTogglesResponse/UnleashFeatureTogglesResponse/#kotlin.String#kotlin.collections.List[io.getunleash.admin.data.UnleashFeatureToggle]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggles-response/-unleash-feature-toggles-response.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureTogglesResponse/features/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggles-response/features.html
+$dokka.location:io.getunleash.admin.data/UnleashFeatureTogglesResponse/version/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-feature-toggles-response/version.html
+$dokka.location:io.getunleash.admin.data/UnleashOverride///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-override/index.html
+$dokka.location:io.getunleash.admin.data/UnleashOverride/UnleashOverride/#kotlin.String#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-override/-unleash-override.html
+$dokka.location:io.getunleash.admin.data/UnleashOverride/contextName/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-override/context-name.html
+$dokka.location:io.getunleash.admin.data/UnleashOverride/values/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-override/values.html
 $dokka.location:io.getunleash.admin.data/UnleashProject///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/index.html
 $dokka.location:io.getunleash.admin.data/UnleashProject/UnleashProject/#kotlin.String#kotlin.String?#kotlin.String?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/-unleash-project.html
 $dokka.location:io.getunleash.admin.data/UnleashProject/description/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project/description.html
@@ -10,18 +51,42 @@ $dokka.location:io.getunleash.admin.data/UnleashProjectResponse///PointingToDecl
 $dokka.location:io.getunleash.admin.data/UnleashProjectResponse/UnleashProjectResponse/#kotlin.String#kotlin.collections.List[io.getunleash.admin.data.UnleashProject]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/-unleash-project-response.html
 $dokka.location:io.getunleash.admin.data/UnleashProjectResponse/projects/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/projects.html
 $dokka.location:io.getunleash.admin.data/UnleashProjectResponse/version/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-project-response/version.html
+$dokka.location:io.getunleash.admin.data/UnleashStrategy///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-strategy/index.html
+$dokka.location:io.getunleash.admin.data/UnleashStrategy/UnleashStrategy/#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]#kotlin.collections.List[io.getunleash.admin.data.UnleashConstraint]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-strategy/-unleash-strategy.html
+$dokka.location:io.getunleash.admin.data/UnleashStrategy/constraints/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-strategy/constraints.html
+$dokka.location:io.getunleash.admin.data/UnleashStrategy/name/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-strategy/name.html
+$dokka.location:io.getunleash.admin.data/UnleashStrategy/parameters/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-strategy/parameters.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/index.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/UnleashVariant/#kotlin.String#kotlin.Int#kotlin.String#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]#kotlin.collections.List[io.getunleash.admin.data.UnleashOverride]/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/-unleash-variant.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/name/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/name.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/overrides/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/overrides.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/payload/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/payload.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/stickiness/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/stickiness.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/weight/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/weight.html
+$dokka.location:io.getunleash.admin.data/UnleashVariant/weightType/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.data/-unleash-variant/weight-type.html
 $dokka.location:io.getunleash.admin.exceptions////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/index.html
 $dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/index.html
 $dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/UnleashIllegalContentTypeException/#kotlin.String?#kotlin.Throwable?#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/-unleash-illegal-content-type-exception.html
 $dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/cause/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/cause.html
 $dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/contentTypeHeader/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/content-type-header.html
 $dokka.location:io.getunleash.admin.exceptions/UnleashIllegalContentTypeException/message/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-illegal-content-type-exception/message.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashUniqueViolationException///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-unique-violation-exception/index.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashUniqueViolationException/UnleashUniqueViolationException/#kotlin.String?#kotlin.Throwable?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-unique-violation-exception/-unleash-unique-violation-exception.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashUniqueViolationException/cause/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-unique-violation-exception/cause.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashUniqueViolationException/message/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-unique-violation-exception/message.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashWrongApiKeyException///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-wrong-api-key-exception/index.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashWrongApiKeyException/UnleashWrongApiKeyException/#kotlin.String?#kotlin.Throwable?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-wrong-api-key-exception/-unleash-wrong-api-key-exception.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashWrongApiKeyException/cause/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-wrong-api-key-exception/cause.html
+$dokka.location:io.getunleash.admin.exceptions/UnleashWrongApiKeyException/message/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin.exceptions/-unleash-wrong-api-key-exception/message.html
 $dokka.location:io.getunleash.admin////PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/index.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient///PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/index.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/UnleashAdminClient/#kotlin.String#kotlin.String#okhttp3.OkHttpClient?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/-unleash-admin-client.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/UnleashAdminClient/#okhttp3.HttpUrl#kotlin.String#okhttp3.OkHttpClient?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/-unleash-admin-client.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/apiKey/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/api-key.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/client/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/client.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/createFeature/#kotlin.String#kotlin.String#kotlin.String?/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/create-feature.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/getFeature/#kotlin.String#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/get-feature.html
+$dokka.location:io.getunleash.admin/UnleashAdminClient/getFeatures/#kotlin.String/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/get-features.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/getProjects/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/get-projects.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/gson/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/gson.html
 $dokka.location:io.getunleash.admin/UnleashAdminClient/serverUrl/#/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-admin-client/server-url.html
@@ -54,5 +119,6 @@ $dokka.location:io.getunleash.admin/UnleashUrls/tagTypesUrl/#okhttp3.HttpUrl/Poi
 $dokka.location:io.getunleash.admin/UnleashUrls/tagTypesUrlBuilder/#okhttp3.HttpUrl/PointingToDeclaration/-unleash -admin -client/io.getunleash.admin/-unleash-urls/tag-types-url-builder.html
 io.getunleash.admin
 io.getunleash.admin.data
+io.getunleash.admin.data.serializers
 io.getunleash.admin.exceptions
 
