@@ -33,6 +33,16 @@ class UnleashAdminClientTest {
     }
 
     @Test
+    fun `if feature toggle list endpoint returns http error code returns empty list`() {
+        val server = MockWebServer()
+        server.enqueue(MockResponse().setResponseCode(404))
+        val client = UnleashAdminClient(server.url(""), "test")
+        val features = client.getFeatures("default")
+        assertThat(features).isEmpty()
+
+    }
+
+    @Test
     fun `can create toggle`() {
         val server = MockWebServer()
         server.enqueue(MockResponse().setResponseCode(201).setBody(TestResponses.successfulOssFeatureCreateResponse))
